@@ -1,0 +1,15 @@
+{
+  "fetchedAt": "2026-09-16T13:54:04.554Z",
+  "runner": "github-actions",
+  "users": {
+    "thsottiaux": []
+  },
+  "sources": {
+    "syndication:thsottiaux": {
+      "ok": false,
+      "error": "返回内容无法解析为 JSON（可能被拦截或接口已变更）"
+    }
+  },
+  "ok": false,
+  "hint": "所有源都失败了。若是 syndication 接口失效，请改用 RSS_URLS 环境变量喂入第三方 RSS"
+}
